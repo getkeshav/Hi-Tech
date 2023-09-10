@@ -8,7 +8,6 @@ import 'package:velocity_x/velocity_x.dart';
 import 'package:flutter_application_1/models/catalog.dart';
 import 'package:flutter_application_1/pages/cart_page.dart';
 import 'package:flutter_application_1/pages/login_page.dart';
-import 'package:flutter_application_1/utils/routes.dart';
 import '../core/store.dart';
 import '../models/cart.dart';
 import '../widgets/home_widgets/catalog_header.dart';
